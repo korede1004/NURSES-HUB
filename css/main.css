@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+}
+
+.left-container{
+    background-color: blue;
+    width: 20%;
+}
+.center-container{
+    background-color: rgb(235, 20, 49);
+    width: 70%;
+}
+.right-container{
+    background-color: gray;
+    width:25%;
+    border-left-style: solid;
+}
+
+.vertical-line {
+    border-left: 2px solid #fff;
+    height: 20px;
+  }
+
+.fa-solid{
+    color: transparent;
+}
