@@ -28,7 +28,13 @@ body{
     height: 20px;
   }
 
+  svg{
+    color: #fff;
+  }
+img{
+    color: #fff;
 
-
+    background-color: white;
+}
 
   
